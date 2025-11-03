@@ -13,7 +13,7 @@ let menuX = -MENU_W + HANDLE_W, menuTarget = -MENU_W + HANDLE_W;
 let MENU_BG, MENU_BG_HOVER, MENU_TEXT, MENU_ACCENT;
 let sideMenuBoxes = [];
 let sideMenuItems = [
-  { label: "作品一", type: "link", url: "https://huangshiting60-gif.github.io/20251014-1/" },
+  { label: "作品一", type: "link", url: "https://https://huangshiting60-gif.github.io/202511033/" },
   { label: "作品二", type: "link", url: "https://hackmd.io/@DVFtTMYjTmumEkY6i9d0lw/SkBeKOyhll" },
   { label: "作品三", type: "quiz" }
 ];
